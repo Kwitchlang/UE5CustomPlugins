@@ -75,4 +75,4 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 #Quixel Bridge Texture/Materials
-Plugins\QuixelBridge\*
+Plugins/QuixelBridge/*
